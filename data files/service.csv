@@ -1,0 +1,44 @@
+serviceid,service_from,reason,modelid,satisfaction
+NA1,"Any other","lack of time",M102,3
+NA10,"Any other","lack of time",M126,7
+NA2,"Any other","lack of time",M123,5
+NA3,"Any other","lack of time",M125,7
+NA4,"Any other","lack of time",M127,4
+NA5,"Any other","lack of time",M128,5
+NA6,"Any other","Good service outside",M102,6
+NA7,"Any other","lack of time",M104,8
+NA8,"Any other","lack of time",M105,9
+NA9,"Any other","lack of time",M119,5
+S101,"Hero Honda  ","Free service",M101,2
+S103,"Hero Honda  ","Good service",M103,4
+S104,"Hero Honda  ","Skilled  staff",M104,5
+S105,"Hero Honda  ",Faith,M105,5
+S106,"Hero Honda  ","Near to station",M106,6
+S107,"Hero Honda  ","Free service",M121,3
+S108,"Hero Honda  ","Free service",M122,4
+S110,"Hero Honda  ","Free service",M124,6
+S112,"Hero Honda  ","Free service",M126,8
+S116,"Hero Honda  ","Near to station",M103,7
+S120,"Hero Honda  ","Good service",M120,5
+S121,"Hero Honda  ","Skilled  staff",M121,3
+S122,"Hero Honda  ",Faith,M122,4
+S123,"Hero Honda  ","Near to station",M123,7
+S124,"Hero Honda  ","Free service",M124,7
+S125,"Hero Honda  ","Free service",M125,7
+S127,"Hero Honda  ","Free service",M127,8
+S128,"Hero Honda  ","Free service",M128,9
+S129,"Hero Honda  ","Free service",M129,9
+S130,"Hero Honda  ","Good service",M130,2
+S131,"Hero Honda  ","Skilled  staff",M131,5
+S132,"Hero Honda  ",Faith,M107,3
+S133,"Hero Honda  ","Near to station",M108,6
+S134,"Hero Honda  ","Good service",M109,7
+S135,"Hero Honda  ","Skilled  staff",M110,8
+S136,"Hero Honda  ",Faith,M111,4
+S137,"Hero Honda  ","Near to station",M112,6
+S138,"Hero Honda  ","Free service",M113,7
+S139,"Hero Honda  ","Good service",M114,6
+S140,"Hero Honda  ","Skilled  staff",M115,9
+S141,"Hero Honda  ",Faith,M116,9
+S142,"Hero Honda  ","Near to station",M117,8
+S143,"Hero Honda  ","Free service",M118,8

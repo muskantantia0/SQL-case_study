@@ -1,0 +1,32 @@
+modelid,duration,custid,Custmodel,model_type,purpose,feature_like
+M101,1.00,C101,Ambition,"New Motor Cycles ","work Place "," Mileage"
+M102,2.00,C102,Passion,"New Motor Cycles "," School/ College",Durability
+M103,2.00,C103,"CD 100","Second Hand Motor Cycles "," School/ College"," Mileage"
+M104,3.00,C104,Splendor,"Second Hand Motor Cycles ","work Place ","Stylish Design"
+M105,4.00,C105,"Splendor plus","New Motor Cycles ","business purpose",Durability
+M106,5.00,C106,"CD 100","New Motor Cycles ","work Place ","Trouble free use"
+M107,2.00,C107,CBZ,"New Motor Cycles "," School/ College","Other features"
+M108,1.00,C108,Ambition,"Second Hand Motor Cycles ","work Place ","Stylish Design"
+M109,2.00,C109,Splendor,"New Motor Cycles "," School/ College"," Mileage"
+M110,3.00,C110,Splendor,"New Motor Cycles ",family,Durability
+M111,2.00,C111,"Splendor plus","New Motor Cycles ","business purpose"," Mileage"
+M112,2.00,C103,Splendor,"Second Hand Motor Cycles ","work Place ",Durability
+M113,2.00,C104,CBZ,"Second Hand Motor Cycles ","Other purposes "," Mileage"
+M114,4.00,C105,Passion,"New Motor Cycles ","work Place "," Mileage"
+M115,4.00,C106,Splendor,"Second Hand Motor Cycles "," School/ College"," Mileage"
+M116,2.00,C115,Splendor,"New Motor Cycles ",family,"Stylish Design"
+M117,1.00,C116,"Splendor plus","New Motor Cycles ","business purpose"," Mileage"
+M118,1.00,C112,"Splendor plus","New Motor Cycles ","work Place "," Mileage"
+M119,1.00,C113,CBZ,"New Motor Cycles ","Other purposes ",Durability
+M120,1.50,C114,Splendor,"New Motor Cycles "," School/ College"," Mileage"
+M121,2.00,C115,"CD 100","New Motor Cycles ","work Place ","Stylish Design"
+M122,3.50,C116,Splendor,"New Motor Cycles ","business purpose"," Mileage"
+M123,2.00,C105,Ambition,"New Motor Cycles ","work Place "," Mileage"
+M124,4.00,C106,Passion,"New Motor Cycles ","business purpose"," Mileage"
+M125,4.00,C107,Splendor,"New Motor Cycles "," School/ College"," Mileage"
+M126,2.00,C108,"CD 100","Second Hand Motor Cycles ","work Place "," Mileage"
+M127,3.00,C109,Splendor,"New Motor Cycles ","business purpose","Stylish Design"
+M128,3.00,C110,Passion,"New Motor Cycles ","work Place ",Durability
+M129,3.00,C115,Splendor,"New Motor Cycles ",family,"Trouble free use"
+M130,2.50,C116,Passion,"New Motor Cycles ","work Place ","Other features"
+M131,2.50,C112,Splendor,"New Motor Cycles ",family,"Stylish Design"
